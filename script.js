@@ -1,5 +1,5 @@
 
-const pomo = Date.now() + 5 * 1000
+const pomo = Date.now() + 25 * 60 * 1000
 
 const countdown = () => {
   const current = Date.now()
