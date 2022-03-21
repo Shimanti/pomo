@@ -1,5 +1,5 @@
 
-const pomo = Date.now() + 5 * 1000
+const pomo = Date.now() + 25 * 60 * 1000
 
 const countdown = () => {
   const current = Date.now()
@@ -21,6 +21,8 @@ const countdown = () => {
 const format = (time) => time < 10 ? `0${time}` : time
 
 const playConfetti = () => {
+  const music = new Audio('victory.mp3');
+  music.play();
   const jsConfetti = new JSConfetti()
   jsConfetti.addConfetti()
 }
