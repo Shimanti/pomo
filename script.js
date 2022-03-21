@@ -21,8 +21,6 @@ const countdown = () => {
 const format = (time) => time < 10 ? `0${time}` : time
 
 const playConfetti = () => {
-  const music = new Audio('victory.mp3');
-  music.play();
   const jsConfetti = new JSConfetti()
   jsConfetti.addConfetti()
 }
