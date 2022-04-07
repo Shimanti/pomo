@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   font-family: Inter;
   color: white;
-  position: absolute;
+  position: relative;
 }
 
 .container {
@@ -25,7 +25,7 @@ h1 {
 }
 
 .timer {
-  position: relative;
+  position: absolute;
   display: flex;
   align-items: center;
   justify-content: center;
