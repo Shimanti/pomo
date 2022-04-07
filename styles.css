@@ -11,12 +11,12 @@ body {
   min-height: 100vh;
   font-family: Inter;
   color: white;
-  position: relative;
 }
 
 .container {
   text-align: center;
   margin: 0 auto;
+  position: relative;
 }
 
 h1 {
