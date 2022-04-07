@@ -16,7 +16,6 @@ body {
 .container {
   text-align: center;
   margin: 0 auto;
-  position: relative;
 }
 
 h1 {
@@ -25,7 +24,6 @@ h1 {
 }
 
 .timer {
-  position: absolute;
   display: flex;
   align-items: center;
   justify-content: center;
