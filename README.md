@@ -1,6 +1,5 @@
 # Pomodoro Timer
-Basic Pomodoro Timer with Confetti
-With JavaScript
+25 minute Pomodoro Timer with Confetti
 
 # Run
 https://shimanti-pomodoro.netlify.app
