@@ -25,6 +25,7 @@ h1 {
 
 .timer {
   margin-top: 25%;
+  margin-left: 25%;
   display: flex;
   align-items: center;
   justify-content: center;
